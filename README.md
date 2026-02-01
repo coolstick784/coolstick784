@@ -15,7 +15,7 @@ Incoming M.S. in Data Science student. I’m interested in creating models that 
   XGBoost models + association rules for service prediction  
   https://github.com/coolstick784/SAS-Hackathon-BCBSSC-2025
 
-- **NFL Big Data Bowl 2026 (Timing Routes):**  
+- **Timing Routes (NFL Big Data Bowl 2026):**  
   Notebook + write-up on timing routes  
   https://github.com/coolstick784/BDB-2026
 
