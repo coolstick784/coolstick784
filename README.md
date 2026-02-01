@@ -1,16 +1,28 @@
-## Hi there 👋
+# Sahil Chugani 
 
-<!--
-**coolstick784/coolstick784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming M.S. in Data Science student. I’m interested in creating models that save money, save lives, automate work, and improve decision-making.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Python**, **SQL**, **SAS**, **R**
+- **Streamlit** (dashboards / apps)
+
+## Featured projects
+- **Aldi Price Data (daily scraping + Streamlit analysis):**  
+  https://github.com/coolstick784/Aldi-Price-Data-With-Analysis
+
+- **Predicting Services from Diagnoses (SAS Hackathon):**  
+  XGBoost models + association rules for service prediction  
+  https://github.com/coolstick784/SAS-Hackathon-BCBSSC-2025
+
+- **NFL Big Data Bowl 2026 (Timing Routes):**  
+  Notebook + write-up on timing routes  
+  https://github.com/coolstick784/BDB-2026
+
+- **TankingPaper:**  
+  Paper on the effects of tanking in the NFL  
+  https://github.com/coolstick784/TankingPaper
+
+## Contact
+- Email: sahil.chugani50@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sahil-chugani/
