@@ -8,6 +8,11 @@ Incoming M.S. in Data Science student. I’m interested in creating models that 
 - **Streamlit** (dashboards / apps)
 
 ## Featured projects
+
+- **Ask Fitness Science:**  
+  https://github.com/coolstick784/Ask-Fitness-Science
+
+  
 - **Aldi Price Data (daily scraping + Streamlit analysis):**  
   https://github.com/coolstick784/Aldi-Price-Data-With-Analysis
 
