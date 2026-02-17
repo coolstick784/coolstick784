@@ -1,6 +1,6 @@
 # Sahil Chugani 
 
-Incoming M.S. in Data Science student. I’m interested in creating models that save money, save lives, automate work, and improve decision-making.
+Incoming M.S. in Computational Data Science student at Carnegie Mellon. I’m interested in creating models that save money, save lives, automate work, and improve decision-making.
 
 
 ## Skills
