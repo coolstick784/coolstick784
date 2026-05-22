@@ -13,7 +13,7 @@ Incoming M.S. in Computational Data Science student at Carnegie Mellon. I’m in
   https://github.com/coolstick784/Ask-Fitness-Science
 
   
-- **Aldi Price Data (daily scraping + Streamlit analysis):**  
+- **Aldi Price Data (past daily scraping + Streamlit analysis):**  
   https://github.com/coolstick784/Aldi-Price-Data-With-Analysis
 
 - **Predicting Services from Diagnoses (SAS Hackathon):**  
