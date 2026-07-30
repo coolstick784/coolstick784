@@ -9,6 +9,9 @@ Incoming M.S. in Computational Data Science student at Carnegie Mellon. I’m in
 
 ## Featured projects
 
+- **Draft Goblin:**  
+  [https://github.com/coolstick784/Ask-Fitness-Science](https://github.com/coolstick784/draft-goblin-public)
+  
 - **Ask Fitness Science:**  
   https://github.com/coolstick784/Ask-Fitness-Science
 
